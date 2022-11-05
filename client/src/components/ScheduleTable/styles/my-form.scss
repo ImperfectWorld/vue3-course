@@ -1,0 +1,14 @@
+.my-form {
+    padding: 15px;
+    box-sizing: border-box;
+
+    h1 {
+        font-size: 20px;
+        color: #666;
+    }
+
+    .select-group {
+        display: flex;
+        flex-direction: row;
+    }
+}

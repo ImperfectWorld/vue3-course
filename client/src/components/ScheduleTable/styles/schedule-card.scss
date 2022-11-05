@@ -1,0 +1,23 @@
+.schedule-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    color: #155724;
+    background-color: #d4edda;
+
+    .icon {
+        position: absolute;
+        right: 10px;
+        top: 0px;
+        font-size: 26px;
+        cursor: pointer;
+    }
+
+    p {
+        margin: 5px 0;
+    }
+}
